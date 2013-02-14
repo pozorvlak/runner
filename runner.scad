@@ -16,7 +16,10 @@ module peg(x) {
 	translate([x, 0, 10]) cylinder(h=10, r=5);
 }
 
-rounded_rectangle(220, 20, 10);
+difference() {
+	rounded_rectangle(220, 20, 10);
+	rounded_rectangle(216, 16, 9);
+}
 peg(-80);
 peg(-20);
 peg(80);
