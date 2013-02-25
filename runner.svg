@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="6cm" viewBox="-1 -1 806 101" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="0" y="0" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="20" cy="15" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="200" cy="15" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="380" cy="15" rx="3" ry="3"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="0" y="35" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="20" cy="50" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="200" cy="50" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="380" cy="50" rx="3" ry="3"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="0" y="70" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="20" cy="85" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="200" cy="85" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="380" cy="85" rx="3" ry="3"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="405" y="0" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="425" cy="15" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="605" cy="15" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="785" cy="15" rx="3" ry="3"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="405" y="35" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="425" cy="50" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="605" cy="50" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="785" cy="50" rx="3" ry="3"/>
+  <rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke-linejoin: round; stroke: #000000" x="405" y="70" width="400" height="30" rx="15" ry="15"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="425" cy="85" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="605" cy="85" rx="3" ry="3"/>
+  <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.02; stroke-linejoin: round; stroke: #000000" cx="785" cy="85" rx="3" ry="3"/>
+</svg>
